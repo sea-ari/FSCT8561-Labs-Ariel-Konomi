@@ -1,0 +1,7 @@
+https://realpython.com/intro-to-python-threading/
+
+https://docs.python.org/3/library/threading.html
+
+https://medium.com/@speaktoharisudhan/threading-in-python-dba88fe8a4d8
+
+https://discuss.python.org/t/simple-multi-client-chat-using-threads/73043
