@@ -5,3 +5,9 @@ https://docs.python.org/3/library/threading.html
 https://medium.com/@speaktoharisudhan/threading-in-python-dba88fe8a4d8
 
 https://discuss.python.org/t/simple-multi-client-chat-using-threads/73043
+
+https://www.geeksforgeeks.org/python/socket-programming-multi-threading-python/
+
+https://oneuptime.com/blog/post/2026-03-20-python-threading-multiple-clients-ipv4/view
+
+https://www.digitalocean.com/community/tutorials/python-socket-programming-server-client
