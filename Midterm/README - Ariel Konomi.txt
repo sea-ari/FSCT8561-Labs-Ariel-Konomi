@@ -15,7 +15,7 @@ Please ensure that python is installed on your testing device and that the follo
 
 Steps:
 
-1. Please ensure that all of the above files are within the same folder or directory, as the client and server require access to test_website.py and FSCT8561_Operation_Sentinel_Traffic.py to fully work as intended
+1. Please ensure that all of the above files are within the same folder or directory, as the client and server require access to test_website.py and FSCT8561_Operation_Sentinel_Traffic.pcap to fully work as intended
 
 2. Please run server_ariel_konomi_midterm.py first. This is to ensure that no errors arise when the client tries to connect
 
