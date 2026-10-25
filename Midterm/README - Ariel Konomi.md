@@ -7,7 +7,7 @@ Setup requirements:
 - client_ariel_konomi_midterm.py
 - server_ariel_konomi_midterm.py
 - test_website.py
-- FSCT8561_Operation_Sentinel_Traffic.py
+- FSCT8561_Operation_Sentinel_Traffic.pcap
 
 Please ensure that python is installed on your testing device and that the following libraries are installed: PyOTP, scapy, requests
 
